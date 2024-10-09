@@ -2,7 +2,7 @@
 #
 
 region                  = "us-east-1"
-git_repo                = "YourOrg/YourRepo" #Organization / repo-name
+git_repo                = "tgilmorepalo/Code2Cloud-Lab"
 
 deploy_eks              = true
 cluster_version         = "1.28"
